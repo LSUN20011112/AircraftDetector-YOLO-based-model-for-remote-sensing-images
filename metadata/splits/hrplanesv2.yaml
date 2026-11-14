@@ -1,0 +1,6 @@
+path: /content/rs_pro_work/hrplanesv2
+train: images/train
+val: images/val
+test: images/test
+nc: 1
+names: ['aircraft']

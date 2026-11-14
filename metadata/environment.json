@@ -1,0 +1,12 @@
+{
+  "yolov5_ref": "master",
+  "yolov5_commit": "cb2f17fd5d790cfdd0c07c25351904df9affbe6e",
+  "python": "3.13.16 (main, Oct  1 2026, 15:40:24) [GCC 13.3.0]",
+  "pytorch": "2.14.1+cu130",
+  "cuda_available": true,
+  "cuda_version": "13.0",
+  "gpu": "NVIDIA L4",
+  "image_size": 640,
+  "batch_size": 4,
+  "random_seed": 42
+}

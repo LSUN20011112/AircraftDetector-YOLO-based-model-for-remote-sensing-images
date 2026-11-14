@@ -1,0 +1,20 @@
+{
+  "filename": "Houston_Hobby_USDA_NAIP_2022-09-14.png",
+  "airport": "William P. Hobby Airport (HOU)",
+  "source_program": "USDA National Agriculture Imagery Program (NAIP)",
+  "service_provider": "USGS The National Map",
+  "service_url": "https://imagery.nationalmap.gov/arcgis/rest/services/USGSNAIPPlus/ImageServer",
+  "source_raster_name": "m_2909522_se_15_060_20220914",
+  "source_object_id": 178947,
+  "acquisition_date": "2022-09-14",
+  "source_ground_sample_distance_meters": 0.6,
+  "source_band_count": 4,
+  "source_sensor_type": "CNIR",
+  "export_rendering": "NaturalColor",
+  "export_bbox_wgs84": [-95.287, 29.638, -95.269, 29.653],
+  "export_size_pixels": [3000, 2500],
+  "license": "Public Domain",
+  "credit": "USGS, USDA, The National Map: Orthoimagery",
+  "cors_add_overlap_check": "William P. Hobby Airport was not present among the source groups parsed from the local CORS-ADD-HBB train2017 and val2017 filenames.",
+  "intended_use": "Qualitative external inference only; no ground-truth bounding boxes are provided."
+}

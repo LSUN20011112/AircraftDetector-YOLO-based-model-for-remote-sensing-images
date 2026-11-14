@@ -1,0 +1,9 @@
+file,line,reason,content
+/content/drive/MyDrive/RS_PRO/HRPlanesv2/train/GBG_359.txt,2,zero_or_invalid_box_size,0 0.5307586146690798 0.19204095360792908 0 0.005353373707024933
+/content/drive/MyDrive/RS_PRO/HRPlanesv2/val/DEN_0024.txt,13,zero_or_invalid_box_size,0 0.5603097489553132 0.24434354446175388 0 0.23133241579439404
+/content/drive/MyDrive/RS_PRO/CORS-ADD-HBB/labels/train2017/tar_Fairbanks_International_Airport_640_7680_7680.txt,8,zero_or_invalid_box_size,0 0.320320 0.959381 0.000000 0.000000
+/content/drive/MyDrive/RS_PRO/CORS-ADD-HBB/labels/train2017/tar_Fairbanks_International_Airport_640_7680_8160.txt,1,zero_or_invalid_box_size,0 0.320320 0.209381 0.000000 0.000000
+/content/drive/MyDrive/RS_PRO/CORS-ADD-HBB/labels/train2017/tar_Fairchild_AFB_640_8640_1440.txt,1,zero_or_invalid_box_size,0 0.382818 0.182035 0.000000 0.004693
+/content/drive/MyDrive/RS_PRO/CORS-ADD-HBB/labels/train2017/tar_Fairchild_AFB_640_8640_960.txt,4,zero_or_invalid_box_size,0 0.382818 0.932035 0.000000 0.004693
+/content/drive/MyDrive/RS_PRO/CORS-ADD-HBB/labels/train2017/tar_Urumqi_Diwopu_International_Airport_640_8160_2400.txt,4,zero_or_invalid_box_size,0 0.359382 0.578906 0.000000 0.001560
+/content/drive/MyDrive/RS_PRO/CORS-ADD-HBB/labels/val2017/tar_Xi'an_Xianyang_International_Airport_640_3360_5760.txt,3,zero_or_invalid_box_size,0 0.364061 0.630468 0.000000 0.001566

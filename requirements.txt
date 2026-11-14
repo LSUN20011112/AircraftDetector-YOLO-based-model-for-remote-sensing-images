@@ -1,0 +1,12 @@
+# The integrated Colab notebook clones the official YOLOv5 repository and
+# installs its requirements automatically. These packages cover the project
+# code outside that setup cell.
+matplotlib>=3.3
+numpy>=1.23.5
+opencv-python>=4.6
+pandas>=1.1.4
+Pillow>=10.3
+PyYAML>=5.3.1
+torch>=1.8
+torchvision>=0.9
+

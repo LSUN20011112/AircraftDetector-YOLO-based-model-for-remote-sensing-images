@@ -1,0 +1,30 @@
+{
+  "random_seed": 42,
+  "target_validation_fraction": 0.15,
+  "validation_groups": [
+    "tar_Andersen_AFB",
+    "tar_Boeing_Field_King_County_International_Airport",
+    "tar_Chongqing_Jiangbei_International_Airport",
+    "tar_George_Bush_Intercontinental_Houston_Airport",
+    "tar_Hangzhou_Xiaoshan_International_Airport",
+    "tar_JL1-000000073302-72cm-2560",
+    "tar_JL1-0000000932-72cm-5120",
+    "tar_JL1-201605280206_0000000924-72cm-2560",
+    "tar_JL1-201605280206_0000000924-72cm-5120",
+    "tar_Kunming_Wujiaba_International_Airport",
+    "tar_Lijiang_Airport",
+    "tar_Louis_Armstrong_New_Orleans_International_Airport",
+    "tar_Minneapolis-Saint_Paul_International_Airport",
+    "tar_NASWI",
+    "tar_Nanjing_Lukou_Airport",
+    "tar_Newark_Liberty_International_Airport",
+    "tar_PL-malilan-50cm-5120",
+    "tar_Shanghai_Hongqiao_International_Airport",
+    "tar_Shenzhen_Bao'an_International_Airport",
+    "tar_Shiyan_Wudang_Mountain_Airport",
+    "tar_WV2-naba-51cm-10140",
+    "tar_WV3-nuofuke-33cm-10240",
+    "tar_Washington_Dulles_International_Airport",
+    "tar_Yantai_Penglai_International_Airport_Airport"
+  ]
+}

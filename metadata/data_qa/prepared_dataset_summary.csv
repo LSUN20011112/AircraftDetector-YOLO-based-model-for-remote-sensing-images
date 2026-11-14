@@ -1,0 +1,7 @@
+dataset,split,images,valid_boxes
+HRPlanesv2,train,1490,9733
+HRPlanesv2,val,420,2554
+HRPlanesv2,test,210,2046
+CORS-ADD-HBB,train,3199,14883
+CORS-ADD-HBB,val,565,2058
+CORS-ADD-HBB,test,1722,7768
